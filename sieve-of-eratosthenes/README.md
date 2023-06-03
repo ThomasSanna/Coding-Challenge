@@ -7,8 +7,8 @@ This program finds all prime numbers less than a given number using the Sieve of
     3.Run the program using the command python prime_numbers.py.
 
 ### Usage
-    1.Enter a positive integer when prompted.
-    2.The program will find all prime numbers less than the given number using the Sieve of Eratosthenes algorithm.
+    1.Enter a positive integer.
+    2.The program will find all prime numbers less or equal than the given number using the Sieve of Eratosthenes algorithm.
     3.The program will output a list of prime numbers.
 
 ### Example
