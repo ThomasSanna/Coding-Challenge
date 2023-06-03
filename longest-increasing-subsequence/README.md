@@ -1,4 +1,4 @@
-## Challenge 2: Find the Longest Increasing Subsequence (uk)
+## Challenge 2: Find the Longest Increasing Subsequence (en)
 The goal of this challenge is to write a Python program that takes in a list of numbers and returns the longest increasing subsequence of that list.
 
 ### Example
